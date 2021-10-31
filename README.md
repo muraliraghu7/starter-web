@@ -18,4 +18,4 @@ Murali Raghu
 ## Place
 Chennai
 
-@copyright2014.
+@copyright2014.all rights reserved
